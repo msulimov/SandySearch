@@ -1,3 +1,19 @@
+# Index and Dump Files
+*.index
+*.dump
+
+# Local Document Store
+Indexer/Local_Store/
+
+# Specification Doc (remove later)
+*.pdf
+
+# IDE
+.idea
+
+# MacOS Files
+*.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
